@@ -1,2 +1,3 @@
-fruits=["apple","orange","strawberry"]
-print(fruits[0])
+fruits=["apple","orange"]
+fruits[1]="grapes"
+print(fruits)
